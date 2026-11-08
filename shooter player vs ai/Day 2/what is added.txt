@@ -1,0 +1,2 @@
+make rays detect detects collision before it happens
+add path finding 
